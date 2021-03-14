@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Config generated on 2/24/2021 3:05:27 PM-->
+<!--Config generated on 3/10/2021 9:51:26 AM-->
 <config>
   <WATVersion>7.4</WATVersion>
   <Header>
-    <TrafficMode>C</TrafficMode>
+    <TrafficMode>A</TrafficMode>
   </Header>
   <SEOGen>
-    <RBTraffic>A</RBTraffic>
+    <RBTraffic>B</RBTraffic>
     <RBTrafficSource>A</RBTrafficSource>
     <SourceURLs>
       <s>https://juntechpc.ga/;https://juntechpc.ga;Direct;NA;NA</s>
@@ -427,6 +427,32 @@
       <s>https://juntechpcaruba.ga;https://juntechpcaruba.ga;Organic;Bing;Website Design Aruba</s>
       <s>https://juntechpcaruba.ga;https://juntechpcaruba.ga;Organic;Bing;SEO Services Aruba</s>
       <s>http://juntechpc.simplesite.com/;http://juntechpc.simplesite.com;Direct;NA;NA</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Direct;NA;NA</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Organic;Google;Computer</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Organic;Google;Web Services</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Organic;Google;Aruba</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Organic;Bing;Computer</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Organic;Bing;Web Services</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Organic;Bing;Aruba</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Organic;Yandex;Computer</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Organic;Yandex;Web Services</s>
+      <s>https://juntechpc.ga/cdn-hosting-providers;https://juntechpc.ga;Organic;Yandex;Aruba</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Direct;NA;NA</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Google;Computer Services</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Google;Website Services Aruba</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Google;SEO Services</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Google;juntechpc Aruba</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Google;Juny Engelhart</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Bing;Computer Services</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Bing;Website Services Aruba</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Bing;SEO Services</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Bing;juntechpc Aruba</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Bing;Juny Engelhart</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Yandex;Computer Services</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Yandex;Website Services Aruba</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Yandex;SEO Services</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Yandex;juntechpc Aruba</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Organic;Yandex;Juny Engelhart</s>
     </SourceURLs>
   </SEOGen>
   <SEOCamp>
@@ -447,6 +473,7 @@
       <s>https://juntechpcaruba.8b.io;https://juntechpcaruba.8b.io;juntechpc Aruba;organic;google;email;junTechPC Aruba, Juny Engelhart, Computer Services Aruba, Computer Repair Technician, Web Solutions Aruba, Website Solutions Aruba, Website Design Aruba, SEO Services Aruba</s>
       <s>https://www.sites.google.com/view/juntechpc;https://www.sites.google.com;juntechpc Aruba;organic;google;email;junTechPC Aruba, Juny Engelhart, Computer Services Aruba, Computer Repair Technician, Web Solutions Aruba, Website Solutions Aruba, Website Design Aruba, SEO Services Aruba</s>
       <s>https://www.sites.google.com/view/juntech;https://www.sites.google.com;juntechpc Aruba;organic;google;email;junTechPC Aruba, Juny Engelhart, Computer Services Aruba, Computer Repair Technician, Web Solutions Aruba, Website Solutions Aruba, Website Design Aruba, SEO Services Aruba</s>
+      <s>https://juntechpc.ga/juntechpc-website-design-portfolio;https://juntechpc.ga;Design Projects;email;google;Design Projects;Computer Services, Website Services Aruba, SEO Services, juntechpc Aruba, Juny Engelhart</s>
     </CampSourceURLs>
   </SEOCamp>
   <GeoLocation>
@@ -659,7 +686,7 @@
       <VarSessionMax>6000</VarSessionMax>
     </SessionDurationSection>
     <PlatformSwitching>
-      <RBPlatform>C</RBPlatform>
+      <RBPlatform>B</RBPlatform>
       <VarSwitchTimeMin>4000</VarSwitchTimeMin>
       <VarSwitchTimeMax>4000</VarSwitchTimeMax>
     </PlatformSwitching>
@@ -669,7 +696,7 @@
       <NUDMaxTraffic2>1</NUDMaxTraffic2>
     </PageTraffic>
     <PageSelOrder>
-      <RBPageSelection>B</RBPageSelection>
+      <RBPageSelection>A</RBPageSelection>
     </PageSelOrder>
     <RBEngine>B</RBEngine>
     <ProxySwitching>
@@ -680,7 +707,7 @@
     </ProxySwitching>
     <SpecialMode>
       <RBSpecialMode>A</RBSpecialMode>
-      <NUDPageRepeat>1</NUDPageRepeat>
+      <NUDPageRepeat>2</NUDPageRepeat>
     </SpecialMode>
   </MainSettings>
   <Run>
@@ -691,7 +718,7 @@
       <NUDAutoClearLogInterval>600</NUDAutoClearLogInterval>
     </LogSettings>
     <CBoxAutoExitWAT>UnChecked</CBoxAutoExitWAT>
-    <DateTimeWATAutoExit>2021-02-24T13:48:37.1735712-08:00</DateTimeWATAutoExit>
+    <DateTimeWATAutoExit>2021-03-10T09:48:25.8604748-08:00</DateTimeWATAutoExit>
     <Scheduler>
       <RBSched>A</RBSched>
       <RBSchedBTime>0</RBSchedBTime>
